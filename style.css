@@ -144,6 +144,10 @@ header {
     height: 540px;
 }
 
+.button_wrap a {
+    margin-top: 10px;
+}
+
 .button_wrap a:first-child {
     font-family: 'Lato','Open Sans', sans-serif;
     background-color: #fff;
@@ -186,4 +190,5 @@ header {
     line-height: 12px;
     text-transform: uppercase;
     text-decoration: none;
+    margin-left: 20px;
 }
